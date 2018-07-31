@@ -87,11 +87,11 @@ function thacoAdjust ($level)
     {
         $minusThaco = 4;
     }
-    else if($level === 11)
+    else if($level == 11)
     {
         $minusThaco = 5;
     }
-    else if($level === 12)
+    else if($level == 12)
     {
         $minusThaco = 6;
     }
