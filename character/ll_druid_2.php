@@ -633,8 +633,8 @@
             "level3Spells": <?php echo $spellsLevel3 ?> + bonusSpellsLevel3 (wisdom, <?php echo $level ?>),
             "level4Spells": <?php echo $spellsLevel4 ?> + bonusSpellsLevel4 (wisdom, <?php echo $level ?>),
             "level5Spells": <?php echo $spellsLevel5 ?> + 0,
-            "level6Spells": <?php echo $spellsLevel5 ?> + 0,
-            "level7Spells": <?php echo $spellsLevel5 ?> + 0,
+            "level6Spells": <?php echo $spellsLevel6 ?> + 0,
+            "level7Spells": <?php echo $spellsLevel7 ?> + 0,
 			"dieRollMethod": "Ability Score Generation: 4d6, drop the lowest"
 			
 		

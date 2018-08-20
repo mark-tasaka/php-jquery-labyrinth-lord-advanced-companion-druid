@@ -20,7 +20,7 @@ function level1Spells ($level)
     {
         $spells = 5;
     }
-    else if($level <= 13)
+    else if($level >= 13)
     {
         $spells = 6;
     }
