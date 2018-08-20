@@ -1,3 +1,5 @@
+/*Druid*/
+
 
 function bonusSpellsLevel1 (wisdom)
 {
@@ -60,7 +62,7 @@ function bonusSpellsLevel4 (wisdom, level)
 {
     let bonus = 0;
     
-    if(level >= 3)
+    if(level >= 6)
         {
             if(wisdom >= 18)
             {
